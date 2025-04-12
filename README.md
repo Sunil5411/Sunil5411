@@ -1,82 +1,95 @@
-## 🎯 **Welcome to My Data Engineering Universe!** 🌍🚀  
+<h1 align="center">Hey there 👋, I'm Sunilkumar</h1>
+<h3 align="center">⚡ Full Stack Java Developer | 🚀 Building High-Performance Apps | 💡 Passionate About Problem Solving</h3>
 
-```diff
-+ 🚀 Data Engineer | Cloud | Big Data | Streaming Pipelines | Automation
-- Passionate about building scalable, distributed data platforms that drive insights!
-```
-
----
-
-### 🛠 **My Tech Stack**  
-
-🔥 **Cloud & Infrastructure**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
-💡 **Big Data & Processing**  
-![Apache Spark](https://img.shields.io/badge/Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Apache Hive](https://img.shields.io/badge/Hive-%23FFC107.svg?style=for-the-badge&logo=apache-hive&logoColor=black)  
-![Apache Flink](https://img.shields.io/badge/Flink-%23E6526F.svg?style=for-the-badge&logo=apache-flink&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-%2300A1E4.svg?style=for-the-badge&logo=snowflake&logoColor=white)  
-![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
-🗄 **Databases & Storage**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=databricks&logoColor=white)  
-![Apache Iceberg](https://img.shields.io/badge/Iceberg-%232CA5E0.svg?style=for-the-badge&logo=apache-iceberg&logoColor=white)  
-![Apache Hudi](https://img.shields.io/badge/Hudi-%23171B21.svg?style=for-the-badge&logo=apache-hudi&logoColor=white)  
-
-🔗 **Data Orchestration & Streaming**  
-![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)  
-![Apache Airflow](https://img.shields.io/badge/Airflow-%23017CEE.svg?style=for-the-badge&logo=apache-airflow&logoColor=white)  
-
-⚙ **DevOps & CI/CD**  
-![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-
-🖥 **Programming & Scripting Languages**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Unix Scripting](https://img.shields.io/badge/Unix%20Scripting-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Building+Robust+%26+Scalable+Apps;Always+Learning+New+Tech;Clean+Code+%E2%9C%94%EF%B8%8F;Performance+%7C+Security+%7C+Design+Patterns" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🎓 **Certifications**  
-
-✅ **Microsoft Certified Power BI Associate**  
-✅ **Google Professional Data Engineer**  
-
----
-
-### ✨ **Animated Banner**  
-![Data Engineer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDJlZXp4MTVqbnMwbmQ5M3ozNjljbzV6czNka3R1N2Q2azVyMGR6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif)  
+### 🧠 About Me
+- 💻 I specialize in **Full Stack Java Development** using modern, scalable tech stacks.
+- ⚙️ Passionate about crafting clean architecture with **Design Patterns**, **Microservices**, and **Reactive Programming**.
+- 🚀 I love building performance-optimized solutions with **Multithreading**, **Memory Management**, and **Smart Pointers**.
+- 📚 Currently mastering **DevOps**, **Cloud Deployment**, and **AI Integration in Web Apps**.
+- 🧩 I solve complex problems using **DSA**, **Graph Algorithms**, **Advanced Trees**, and **Dynamic Programming**.
 
 ---
 
-### 📊 **GitHub Stats & Streak**  
+### 🛠️ Tech Stack & Tools
 
-📈 **My Contributions & Activity:**  
-<div align="center">  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" />  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" />  
-</div>  
+#### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+#### 🧰 Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST-API-00599C?style=for-the-badge"/>
+</p>
+
+#### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### 🧩 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-### 🌟 **My Open Source Contributions**  
-![GitHub Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+### 🧠 Fun Stuff I Love
+- 🔭 Competitive Coding (DSA, Graphs, DP, Trees, etc.)
+- 📘 Blogging Technical Concepts on Medium
+- 🎮 Gaming & Simulation Algorithms
+- 🧪 Experimenting with Backend Performance Benchmarks
 
 ---
 
-### 📬 **Let's Connect!**  
-
-🚀 I’m Sunilkumar, always eager to collaborate, learn, and work on exciting data projects. Feel free to reach out!  
-
-📧 **Email:** sunilkumareddy8@gmail.com  
-💼 **LinkedIn:** [Sunilkumar's LinkedIn](https://www.linkedin.com/in/sunilredd/)  
-💻 **Portfolio:** [Your Website](#)  
+### 📫 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/Sunil5411" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sunil5411">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-🔥 **Let’s Engineer Scalable Data Pipelines!** 🚀
+### ✨ Quote I Live By
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+---
+
+### 🔥 Let's Build the Future of Java Together!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+</p>
