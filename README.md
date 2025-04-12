@@ -1,95 +1,109 @@
-<h1 align="center">Hey there 👋, I'm Sunilkumar</h1>
-<h3 align="center">⚡ Full Stack Java Developer | 🚀 Building High-Performance Apps | 💡 Passionate About Problem Solving</h3>
+<!-- Hero Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00ADB5&vCenter=true&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+B.SunilkumarReddy;Data+Analyst+%7C+Storyteller+%7C+Problem+Solver;Transforming+Data+into+Decisions" alt="Typing SVG">
+</p>
+
+---
+
+## 🧠 About Me
+
+🎓 Passionate **Data Analyst** focused on solving real-world problems using data  
+📈 Transforming raw datasets into actionable business insights  
+📊 Storytelling with numbers to drive smarter decisions  
+🚀 Open to collaboration & freelance projects  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Building+Robust+%26+Scalable+Apps;Always+Learning+New+Tech;Clean+Code+%E2%9C%94%EF%B8%8F;Performance+%7C+Security+%7C+Design+Patterns" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/sunilredd/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧠 About Me
-- 💻 I specialize in **Full Stack Java Development** using modern, scalable tech stacks.
-- ⚙️ Passionate about crafting clean architecture with **Design Patterns**, **Microservices**, and **Reactive Programming**.
-- 🚀 I love building performance-optimized solutions with **Multithreading**, **Memory Management**, and **Smart Pointers**.
-- 📚 Currently mastering **DevOps**, **Cloud Deployment**, and **AI Integration in Web Apps**.
-- 🧩 I solve complex problems using **DSA**, **Graph Algorithms**, **Advanced Trees**, and **Dynamic Programming**.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-#### 🧰 Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST-API-00599C?style=for-the-badge"/>
-</p>
-
-#### 🖥️ Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logoColor=white"/>
-</p>
-
-#### 🧩 Tools & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-#### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
-### 🧠 Fun Stuff I Love
-- 🔭 Competitive Coding (DSA, Graphs, DP, Trees, etc.)
-- 📘 Blogging Technical Concepts on Medium
-- 🎮 Gaming & Simulation Algorithms
-- 🧪 Experimenting with Backend Performance Benchmarks
-
----
-
-### 📫 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/Sunil5411" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sunil5411">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ✨ Quote I Live By
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
----
-
-### 🔥 Let's Build the Future of Java Together!
+## 🛠️ Skills & Tech Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+  <!-- Programming & Data -->
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" height="40" width="40"/>
+
+  <!-- Tableau -->
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" height="40" width="40"/>
+
+  <!-- MS Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel" height="40" width="40"/>
+
+  <!-- ETL / Airflow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" title="ETL / Airflow" height="40" width="40"/>
+
+  <!-- MS SQL Server -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40" width="40"/>
 </p>
+
+- 📊 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+- 🔍 **Data Analysis**: Pandas, Excel, NumPy, SQL  
+- ⚙️ **Machine Learning (Intermediate)**: Scikit-learn, Regression, Classification  
+- 🌐 **APIs & Automation**: Tweepy, Requests, Scripting  
+- 📁 **Tools**: Jupyter, VSCode, GitHub, Excel, Google Sheets
+
+---
+
+## 💼 Projects
+
+### ⚡ [EV Charging Station Utilization](https://github.com/yourusername/ev-charging-utilization)
+
+🚗 Analyze and optimize EV station usage in urban areas  
+🛠️ Python · Pandas · Matplotlib · GeoPandas · SQL  
+📍 Visual heatmaps, session stats, and usage prediction  
+![EV GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+
+---
+
+### 🛍️ [Retail Sales Optimization via Price Elasticity](https://github.com/yourusername/retail-price-elasticity)
+
+📈 Predicted revenue impact based on price changes  
+🧪 Regression modeling, Elasticity analysis, Forecasting  
+📊 Tools: Python · NumPy · Scikit-learn · Streamlit  
+![Retail GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
+---
+
+### 💬 [Real-Time Social Media Sentiment Tracker (India)](https://github.com/yourusername/tech-sentiment-india)
+
+📡 Track trending tech skills using live Twitter data  
+🧠 NLP with TextBlob, Real-time with Tweepy API  
+📊 Outputs: Sentiment Pie Chart, WordCloud  
+![Sentiment GIF](https://media.giphy.com/media/26Ff6qAXN5IqV3nP2/giphy.gif)
+
+---
+
+## 🌱 Currently Learning
+
+- 📘 Deep Learning (TensorFlow, Keras)  
+- ⚡ Big Data Tools: PySpark, Hadoop  
+- 📊 Advanced Data Storytelling with Tableau  
+
+---
+
+## 📜 Certifications
+
+- 🏅 Google Data Analytics Professional Certificate  
+- 🧠 Microsoft Certified Power BI Data Analyst Associate  
+- 📊 Python for Data Analysis (Pythonlife)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
