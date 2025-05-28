@@ -1,109 +1,84 @@
-<!-- Hero Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00ADB5&vCenter=true&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+B.SunilkumarReddy;Data+Analyst+%7C+Storyteller+%7C+Problem+Solver;Transforming+Data+into+Decisions" alt="Typing SVG">
-</p>
+## 📊 Sunil Kumar Reddy — Data Analyst | BI Developer | Insight-Driven Problem Solver
+
+Hi there! 👋  
+I’m **Sunil Kumar Reddy**, a results-focused **Data Analyst** from Hyderabad, India, passionate about converting raw data into powerful insights. I specialize in **Power BI**, **SQL**, and **Python**, with a strong foundation in data visualization, forecasting, and business intelligence.
 
 ---
 
-## 🧠 About Me
+### 🧠 Key Skills & Tech Stack
 
-🎓 Passionate **Data Analyst** focused on solving real-world problems using data  
-📈 Transforming raw datasets into actionable business insights  
-📊 Storytelling with numbers to drive smarter decisions  
-🚀 Open to collaboration & freelance projects  
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sunilredd/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+```txt
+Languages:      Python • SQL • DAX • M • Excel (Advanced)
+Analytics:      Forecasting • Sentiment Analysis • Price Elasticity Modeling
+Visualization:  Power BI • Power Query • Excel Charts
+Tools/Platforms:Jupyter • Google Colab • GitHub • Twitter API • Open Charge Map API
+Databases:      MySQL • SQLite • CSV/JSON (ETL Pipelines)
+```
 
 ---
 
-## 🛠️ Skills & Tech Stack
+### 🚀 Badges
 
-<p align="center">
-  <!-- Programming & Data -->
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" height="40" width="40"/>
-
-  <!-- Tableau -->
-  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" height="40" width="40"/>
-
-  <!-- MS Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel" height="40" width="40"/>
-
-  <!-- ETL / Airflow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" title="ETL / Airflow" height="40" width="40"/>
-
-  <!-- MS SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" height="40" width="40"/>
-</p>
-
-- 📊 **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- 🔍 **Data Analysis**: Pandas, Excel, NumPy, SQL  
-- ⚙️ **Machine Learning (Intermediate)**: Scikit-learn, Regression, Classification  
-- 🌐 **APIs & Automation**: Tweepy, Requests, Scripting  
-- 📁 **Tools**: Jupyter, VSCode, GitHub, Excel, Google Sheets
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analyst-blue?logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-green?logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Data%20Wrangling-yellow?logo=python)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-red)
+![Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-ff69b4)
+![Join Status](https://img.shields.io/badge/Available-Immediate-green)
 
 ---
 
-## 💼 Projects
+### 📂 Featured Projects
 
-### ⚡ [EV Charging Station Utilization](https://github.com/yourusername/ev-charging-utilization)
+#### 🚗 **EV Charging Station Utilization**  
+[🔗 GitHub Repo](https://github.com/Sunil5411/EV-Charging-Station-Utilization)  
+→ Visualized 1,000+ charging stations using Power BI & shapefiles  
+→ Identified high-demand corridors & regional disparities  
+→ Informed state-level EV infrastructure strategy  
 
-🚗 Analyze and optimize EV station usage in urban areas  
-🛠️ Python · Pandas · Matplotlib · GeoPandas · SQL  
-📍 Visual heatmaps, session stats, and usage prediction  
-![EV GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)
+#### 💰 **Retail Sales Optimization via Price Elasticity**  
+[🔗 GitHub Repo](https://github.com/Sunil5411/Retail-Sales-Optimization-via-Price-Elasticity)  
+→ Analyzed elasticity across 1,000+ SKUs  
+→ Forecasted 22% revenue increase with pricing simulations in Power BI  
+→ Segmented price-sensitive SKUs into 4 clusters  
 
----
-
-### 🛍️ [Retail Sales Optimization via Price Elasticity](https://github.com/yourusername/retail-price-elasticity)
-
-📈 Predicted revenue impact based on price changes  
-🧪 Regression modeling, Elasticity analysis, Forecasting  
-📊 Tools: Python · NumPy · Scikit-learn · Streamlit  
-![Retail GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
----
-
-### 💬 [Real-Time Social Media Sentiment Tracker (India)](https://github.com/yourusername/tech-sentiment-india)
-
-📡 Track trending tech skills using live Twitter data  
-🧠 NLP with TextBlob, Real-time with Tweepy API  
-📊 Outputs: Sentiment Pie Chart, WordCloud  
-![Sentiment GIF](https://media.giphy.com/media/26Ff6qAXN5IqV3nP2/giphy.gif)
+#### 🧠 **Real-Time Sentiment Tracker on Tech Skills**  
+[🔗 GitHub Repo](https://github.com/Sunil5411/Real-Time-Social-Media-Sentiment-Tracker-on-Tech-Skills-in-India)  
+→ Ingested 12K+ tweets daily via Twitter API  
+→ Built sentiment classifier (TextBlob, >85% accuracy)  
+→ Visualized geo-tagged sentiment across 8 cities in Power BI  
 
 ---
 
-## 🌱 Currently Learning
+### 🏅 Certifications
 
-- 📘 Deep Learning (TensorFlow, Keras)  
-- ⚡ Big Data Tools: PySpark, Hadoop  
-- 📊 Advanced Data Storytelling with Tableau  
-
----
-
-## 📜 Certifications
-
-- 🏅 Google Data Analytics Professional Certificate  
-- 🧠 Microsoft Certified Power BI Data Analyst Associate  
-- 📊 Python for Data Analysis (Pythonlife)  
+- **Microsoft Certified:** Power BI Data Analyst Associate  
+- **HackerRank Certified:** SQL Advanced & Intermediate  
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+[🌐 Portfolio](https://sunildata.netlify.app) •  
+[📄 Resume](https://github.com/Sunil5411/SunilKumarReddy_DataAnalyst_Resume_2025.pdf) •  
+[💼 LinkedIn](https://www.linkedin.com/in/sunilreddy-data-analyst/) •  
+[📬 Email](mailto:sunilkumareddy8@gmail.com)
 
 ---
+
+### 📈 GitHub Stats
+
+![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil5411&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil5411&layout=compact&theme=default)
+
+---
+
+### 🐍 Snake Eating Contribution Graph
+
+![snake gif](https://github.com/Sunil5411/Sunil5411/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ✨ Let's Build with Data  
+Turning insights into action, dashboards into decisions, and data into direction. Always open to new ideas and collaborations.
