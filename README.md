@@ -1,84 +1,136 @@
-## 📊 Sunil Kumar Reddy — Data Analyst | BI Developer | Insight-Driven Problem Solver
+## 🧾 A Little Bit About Me and My Interests
 
-Hi there! 👋  
-I’m **Sunil Kumar Reddy**, a results-focused **Data Analyst** from Hyderabad, India, passionate about converting raw data into powerful insights. I specialize in **Power BI**, **SQL**, and **Python**, with a strong foundation in data visualization, forecasting, and business intelligence.
+```yaml
+about_me:
+  name: B. Sunil Kumar Reddy
+  role: Data Analyst | BI Developer
+  located_in: Madhapur, Hyderabad, Telangana, India
+  availability: Immediate Joiner
+  open_to: Remote & Relocation
+  2025_goal: Secure my dream role as a Data Analyst
+  hobbies:
+    - Travelling
+    - Cooking
+    - Playing games
+  currently_learning:
+    - Hadoop
+    - Hive
+    - Spark
+    - AWS
+    - Azure
+    - Google Cloud (GCP)
+  technical_background:
+    - Python
+    - Pandas
+    - MySQL
+    - MS Excel
+    - Power BI
+    - Git
+    - GitHub
+    - Jupyter Notebook
+  fields_of_interest:
+    - Data Analysis
+    - Data Engineering
+    - Data Science
+    - Machine Learning
 
----
+education:
+  - institution: HIMALAYAN GARHWAL UNIVERSITY
+    location: Uttarakhand, India
+    period: May 2019 – Aug 2021
+    degree: Bachelor of Computer Application
+    cgpa: 7.55/10
+    relevant_coursework:
+      - Data Analysis & Visualization
+      - Forecasting Techniques
+      - Statistical Methods
+      - Project Management
+      - Team-Based Analytics
+      - Analytical Writing
+      - Business Data Apps
 
-### 🧠 Key Skills & Tech Stack
-
-```txt
-Languages:      Python • SQL • DAX • M • Excel (Advanced)
-Analytics:      Forecasting • Sentiment Analysis • Price Elasticity Modeling
-Visualization:  Power BI • Power Query • Excel Charts
-Tools/Platforms:Jupyter • Google Colab • GitHub • Twitter API • Open Charge Map API
-Databases:      MySQL • SQLite • CSV/JSON (ETL Pipelines)
+  - institution: NARAYANA JUNIOR COLLEGE
+    location: Kadapa, Andhra Pradesh, India
+    period: Aug 2016 – Jun 2018
+    degree: Intermediate (MPC)
+    score: 678/1000
+    core_subjects:
+      - Mathematics
+      - Physics
+      - Chemistry
 ```
+## 🚀 Real-World Projects
+```yaml
+  - name: Cryptocurrency Market Intelligence Dashboard
+    description: Real-time dashboard for crypto market trends, volatility, and performance using CoinGecko API
+    tech_stack:
+      - Python
+      - Pandas
+      - MySQL
+      - Power BI
+    KPIs:
+      - Real-Time Price & Market Cap
+      - 24H Trading Volume
+      - Price Volatility Index
+      - Market Dominance %
+      - Top Gainers & Losers (24H)
+    repo: https://github.com/Sunil5411/crypto-market-intelligence-dashboard
 
----
+  - name: Retail Price Optimization Dashboard
+    description: Price elasticity, discount modeling, and revenue forecasting for strategic retail pricing
+    tech_stack:
+      - Python
+      - Pandas
+      - Excel
+      - Power BI
+    KPIs:
+      - Price Elasticity by Product
+      - Discount Impact on Sales
+      - Revenue Forecast from Price Simulation
+      - Elastic vs Inelastic Item Classification
+      - Optimal Pricing Recommendations
+    repo: https://github.com/Sunil5411/retail-price-optimization-dashboard
 
-### 🚀 Badges
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analyst-blue?logo=powerbi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Advanced-green?logo=postgresql)
-![Python](https://img.shields.io/badge/Python-Data%20Wrangling-yellow?logo=python)
-![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-red)
-![Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-ff69b4)
-![Join Status](https://img.shields.io/badge/Available-Immediate-green)
-
----
-
-### 📂 Featured Projects
-
-#### 🚗 **EV Charging Station Utilization**  
-[🔗 GitHub Repo](https://github.com/Sunil5411/EV-Charging-Station-Utilization)  
-→ Visualized 1,000+ charging stations using Power BI & shapefiles  
-→ Identified high-demand corridors & regional disparities  
-→ Informed state-level EV infrastructure strategy  
-
-#### 💰 **Retail Sales Optimization via Price Elasticity**  
-[🔗 GitHub Repo](https://github.com/Sunil5411/Retail-Sales-Optimization-via-Price-Elasticity)  
-→ Analyzed elasticity across 1,000+ SKUs  
-→ Forecasted 22% revenue increase with pricing simulations in Power BI  
-→ Segmented price-sensitive SKUs into 4 clusters  
-
-#### 🧠 **Real-Time Sentiment Tracker on Tech Skills**  
-[🔗 GitHub Repo](https://github.com/Sunil5411/Real-Time-Social-Media-Sentiment-Tracker-on-Tech-Skills-in-India)  
-→ Ingested 12K+ tweets daily via Twitter API  
-→ Built sentiment classifier (TextBlob, >85% accuracy)  
-→ Visualized geo-tagged sentiment across 8 cities in Power BI  
-
----
-
-### 🏅 Certifications
-
-- **Microsoft Certified:** Power BI Data Analyst Associate  
-- **HackerRank Certified:** SQL Advanced & Intermediate  
-
----
-
-### 🌐 Connect with Me
-
-[🌐 Portfolio](https://sunildata.netlify.app) •  
-[📄 Resume](https://github.com/Sunil5411/SunilKumarReddy_DataAnalyst_Resume_2025.pdf) •  
-[💼 LinkedIn](https://www.linkedin.com/in/sunilreddy-data-analyst/) •  
-[📬 Email](mailto:sunilkumareddy8@gmail.com)
-
----
-
-### 📈 GitHub Stats
-
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunil5411&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil5411&layout=compact&theme=default)
-
----
-
-### 🐍 Snake Eating Contribution Graph
-
-![snake gif](https://github.com/Sunil5411/Sunil5411/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### ✨ Let's Build with Data  
-Turning insights into action, dashboards into decisions, and data into direction. Always open to new ideas and collaborations.
+  - name: EV Charging Utilization Dashboard
+    description: Geo-based EV station usage monitoring with demand zones and idle/load detection
+    tech_stack:
+      - Python
+      - GeoPandas
+      - Power BI
+    KPIs:
+      - Station Utilization %
+      - Peak Demand Hours by Region
+      - Idle Station Detection
+      - Overloaded Station Alerts
+      - Location-Wise Deployment Suggestions
+    repo: https://github.com/Sunil5411/ev-charging-utilization-dashboard
+```
+## 🧠 Technical Skills
+```yaml
+  languages:
+    - Python
+    - SQL
+    - DAX
+  data_tools:
+    - Power BI
+    - MySQL
+    - MS Excel
+    - Jupyter Notebook
+    - Pandas
+    - NumPy
+  version_control:
+    - Git
+    - GitHub
+  cloud_learning:
+    - AWS
+    - Azure
+    - Google Cloud (GCP)
+  soft_skills:
+    - Problem Solving
+    - Communication
+    - Team Collaboration
+    - Business Thinking
+```
+## 📈 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunil5411&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunil5411&layout=compact&theme=radical)
